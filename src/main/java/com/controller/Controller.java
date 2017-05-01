@@ -27,11 +27,6 @@ public class Controller {
     @Autowired
     private CartService cartService;
 
-    @RequestMapping("/")
-    public String home() {
-        return "redirect:/swagger-ui.html";
-    }
-
     @RequestMapping(value = "/products", method = {RequestMethod.GET}, produces = MediaType.APPLICATION_JSON_VALUE)
     public List<Product> getProducts() {
         final List<Product> products = productService.getProducts();
