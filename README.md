@@ -20,8 +20,10 @@ A REST Service for Products and Shopping Cart
 <ul>
 <li>Run or debug the app with the <b>Starter</b> main class at the Controller package </li>
 <li>Install application: <b>mvn clean install</b></li>
+</ul>
+<h2>Database</h2>
+<ul>
 <li><b>Please Note:</b> By starting the application the in-memory database will be pre-populated by some data. Hence you can make your sample calls </li>
-
 </ul>
 <h2>Sample Requests</h2>
 <ul>
