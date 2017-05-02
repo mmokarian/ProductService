@@ -23,7 +23,7 @@ A REST Service for Products and Shopping Cart
 </ul>
 <h2>Database</h2>
 <ul>
-<li><b>Please Note:</b> By starting the application the in-memory database will be pre-populated by some data. Hence you can make your sample calls </li>
+<li><b>Please Note:</b> By starting the application the in-memory database will be pre-populated by some data. Hence you can make your sample calls one the service started. </li>
 </ul>
 <h2>Sample Requests</h2>
 <ul>
