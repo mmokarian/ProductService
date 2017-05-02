@@ -9,8 +9,7 @@ A REST Service for Products and Shopping Cart
 <li>Remove a product from the cart</li>
 <li>View cart content</li>
 </ul>
-Running the Application
-======================
+
 <h2> Environment </h2>
 <ul>
 <li> Maven 3.5 </li>
@@ -18,8 +17,10 @@ Running the Application
 <li> Soring Boot 1.5.3 </li>
 </ul>
 <h2> Installation </h2>
-* Run or debug the app with the ```Starter``` main class at the Controller package 
-* Install application: ```mvn clean install```
+<ul>
+<li>Run or debug the app with the <b>Starter</b> main class at the Controller package </li>
+<li>Install application: <b>mvn clean install</b></li>
+</ul>
 <h2>Sample Requests</h2>
 <ul>
 <li>
